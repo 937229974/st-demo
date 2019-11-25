@@ -1,4 +1,4 @@
-package com.demo.test.pojo;
+package com.st.test.pojo;
 
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 

@@ -1,6 +1,6 @@
-package com.demo.test.dao;
+package com.st.test.dao;
 
-import com.demo.test.pojo.Test;
+import com.st.test.pojo.Test;
 import org.springframework.stereotype.Repository;
 
 @Repository

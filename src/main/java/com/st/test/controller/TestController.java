@@ -1,9 +1,7 @@
-package com.demo.test.controller;
+package com.st.test.controller;
 
-import com.demo.test.pojo.Test;
-import com.demo.test.service.TestService;
-import org.slf4j.ILoggerFactory;
-import org.slf4j.Logger;
+import com.st.test.pojo.Test;
+import com.st.test.service.TestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

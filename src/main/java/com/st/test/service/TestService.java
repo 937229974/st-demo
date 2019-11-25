@@ -1,8 +1,8 @@
-package com.demo.test.service;
+package com.st.test.service;
 
 
-import com.demo.test.dao.TestDao;
-import com.demo.test.pojo.Test;
+import com.st.test.dao.TestDao;
+import com.st.test.pojo.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

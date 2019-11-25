@@ -10,3 +10,12 @@ spring:
     password: root
     url: jdbc:mysql://localhost:3306/demo?serverTimezone=UTC
     driver-class-name: com.mysql.cj.jdbc.Driver
+  #html 支持
+  thymeleaf:
+    prefix: classpath:/templates/
+
+#  security:
+#    oauth2:
+#      resourceserver:
+#        jwt:
+#          jws-algorithm:
