@@ -48,6 +48,13 @@
         </dependency>
         <!--支持html -->
 
+        <!--shrio 依赖 -->
+        <dependency>
+            <groupId>org.apache.shiro</groupId>
+            <artifactId>shiro-spring</artifactId>
+            <version>1.4.0</version>
+        </dependency>
+        <!--shrio 依赖-->
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
